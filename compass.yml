@@ -1,0 +1,14 @@
+name: openage
+id: ari:cloud:compass:a5fd7e86-1037-4957-88e1-656b1179d617:component/30307f94-33fc-4613-b40d-651fee166c5e/f1d58c5b-6f77-4ac4-8761-126c59fc5ce3
+description: Clone of the Age of Empires II engine 🚀
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - language:python
+  - source:github
+customFields: null
